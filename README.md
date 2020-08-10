@@ -1,0 +1,1 @@
+This template is to be converted to a WordPress theme for the TORSH marketing site.
