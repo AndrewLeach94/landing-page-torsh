@@ -7,7 +7,7 @@ The end goal of this project was to have a dynamic landing page design with reus
 ### View web page: 
 https://andrewleach94.github.io/landing-page-torsh/
 
-This design was explicited created "Desktop first"
+This design was explicitly created "Desktop first"
 #### Checklist
 - [x] Create Desktop Design (10th August 2020)
 - [x] Add Mobile Design (11th August 2020)
