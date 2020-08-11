@@ -1,4 +1,4 @@
-#TORSH Landing Page Template#
+#TORSH Landing Page Template
 
 
 ##The Goal##
